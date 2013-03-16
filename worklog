@@ -1,0 +1,29 @@
+primnary key support working
+foreign key support working
+index working
+search working
+sort working
+edit working -  search not implemented + buggy composite keys
+view working
+delete working
+query working
+export working - /n /t/ r fixes needed
+import working
+download working
+add working -  search not implemented + buggy composite keys
+
+custom queries working
+
+fix null primary key handling
+
+menu working
+
+mysql works
+mssql implemented - not tested
+firebird works
+pgsql works
+oci8 implemented - not tested
+sqlite implemented missing foreign key detection
+
+html5 done
+w3c validation done
