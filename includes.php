@@ -26,10 +26,4 @@ require_once "./engines/sqlite.dbe.class.php";
 
 //STYLES
 require_once "./style/style.dbe.class.php";
-
-
-
-
-
-
 ?>

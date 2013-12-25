@@ -1,14 +1,14 @@
 <?php
 
-class component
+class component 
 {
-public $name;
-public $type;
-public $label;
-public $count;
-public $parent;
-public $child;
-public $list;
-public $index;
-
+    public $name;
+    public $type;
+    public $label;
+    public $count;
+    public $parent;
+    public $child;
+    public $list;
+    public $index;
 }
+?>

@@ -1,11 +1,6 @@
 <?php
 
-interface plugin
-{
-
-
-public function Show();
+interface plugin {
+    public function Show();
 }
-
-
-
+?>
