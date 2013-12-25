@@ -163,4 +163,4 @@ class SQLiteExplorer extends connection
         return $field;
     }
 }
-%>
+?>
